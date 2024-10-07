@@ -1,6 +1,6 @@
 import { Song } from "./song";
 
-export interface FavSongs {
+export interface FavSong {
     userId: number;
-    songs: Song[];
+    song: Song;
 }

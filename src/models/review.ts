@@ -1,6 +1,8 @@
+import { Song } from "./song";
+
 export interface Review {
     userId: number;
-    songName: string;
+    song: Song;
     comment: string;
     rating: number;
 }
