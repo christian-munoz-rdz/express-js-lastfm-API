@@ -8,7 +8,7 @@ import { addSongToPlaylist,
 const playlistsRouter = express.Router();
 
 // Obtener playlists de usuario
-playlistsRouter.get('/:uid', getPlaylists);
+playlistsRouter.post('/', getPlaylists);
 
 // Crear playlist
 playlistsRouter.post('/create', createPlaylist);

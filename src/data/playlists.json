@@ -1,0 +1,78 @@
+[
+    {
+        "userId": 1,
+        "playlistName": "Chill",
+        "playlistDescription": "Canciones para relajarse",
+        "songs": [
+            {
+                "songName": "Feather",
+                "artist": "Sabrina Carpenter"
+            },
+            {
+                "songName": "End of Beginning",
+                "artist": "Djo"
+            },
+            {
+                "songName": "Diet Pepsi",
+                "artist": "Addison Rae"
+            }
+        ]
+    },
+    {
+        "userId": 2,
+        "playlistName": "Playlist 2",
+        "playlistDescription": "Canciones para relajarse",
+        "songs": [
+            {
+                "songName": "Feather",
+                "artist": "Sabrina Carpenter"
+            },
+            {
+                "songName": "End of Beginning",
+                "artist": "Djo"
+            },
+            {
+                "songName": "Diet Pepsi",
+                "artist": "Addison Rae"
+            }
+        ]
+    },
+    {
+        "userId": 1,
+        "playlistName": "Playlist 3",
+        "playlistDescription": "Canciones para relajarse",
+        "songs": [
+            {
+                "songName": "Feather",
+                "artist": "Sabrina Carpenter"
+            },
+            {
+                "songName": "End of Beginning",
+                "artist": "Djo"
+            },
+            {
+                "songName": "Diet Pepsi",
+                "artist": "Addison Rae"
+            }
+        ]
+    },
+    {
+        "userId": 3,
+        "playlistName": "Playlist 4",
+        "playlistDescription": "Canciones para relajarse",
+        "songs": [
+            {
+                "songName": "Feather",
+                "artist": "Sabrina Carpenter"
+            },
+            {
+                "songName": "End of Beginning",
+                "artist": "Djo"
+            },
+            {
+                "songName": "Diet Pepsi",
+                "artist": "Addison Rae"
+            }
+        ]
+    }
+]

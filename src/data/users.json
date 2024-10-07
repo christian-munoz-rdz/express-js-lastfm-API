@@ -3,7 +3,7 @@
     "id": 1,
     "email": "chgeovany.15@gmail.com",
     "password": "chr1234",
-    "desription": "Hola a todos, soy Geovany y me encanta la música",
+    "desription": "Estoy cansado jefe",
     "favSongs": [
       {
         "songName": "Feather",
@@ -52,6 +52,10 @@
       {
         "songName": "Creep",
         "artist": "Radiohead"
+      },
+      {
+        "songName": "From the Subway Train",
+        "artist": "Vansire"
       }
     ]
   },
