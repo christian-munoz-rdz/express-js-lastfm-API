@@ -14,7 +14,7 @@ const DUMMY_REVIEWS: Review[] = [
     rating: 1,
   },
   {
-    userId: 1,
+    userId: 2,
     song: {
       songName: "Not Allowed",
       artist: "TV Girl",
@@ -23,7 +23,7 @@ const DUMMY_REVIEWS: Review[] = [
     rating: 2,
   },
   {
-    userId: 1,
+    userId: 3,
     song: {
       songName: "BEST INTEREST",
       artist: "Tyler, the Creator",
@@ -44,7 +44,7 @@ const DUMMY_REVIEWS: Review[] = [
 
 // Obtener reviews de usuario
 export const getReviews = (req: Request, res: Response, next: () => void) => {
-  const userId = req.params.userId;
+  const { userId } = req.body
   const reviews = DUMMY_REVIEWS.filter((r) => r.userId === parseInt(userId));
   res.json({ reviews });
 };
@@ -62,7 +62,7 @@ export const createReview = (req: Request, res: Response, next: () => void) => {
 
   DUMMY_REVIEWS.push(newReview);
 
-  res.status(201).json({ review: newReview });
+  res.status(201).json({ message: "Review creada", review: newReview });
 };
 
 // Eliminar review

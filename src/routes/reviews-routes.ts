@@ -5,7 +5,7 @@ import { createReview, deleteReview, getReviews } from '../controllers/reviews-c
 const reviewsRouter = express.Router();
 
 // Obtener reviews de usuario
-reviewsRouter.get('/:uid', getReviews);
+reviewsRouter.post('/', getReviews);
 
 // Crear review
 reviewsRouter.post('/create', createReview);
