@@ -1,0 +1,65 @@
+[
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Father Stretch My Hands Pt. 1",
+      "artist": "Kanye West"
+    },
+    "comment": " What a great song!",
+    "rating": 1
+  },
+  {
+    "userId": 2,
+    "song": {
+      "songName": "Not Allowed",
+      "artist": "TV Girl"
+    },
+    "comment": "I love this song! since I was a child",
+    "rating": 2
+  },
+  {
+    "userId": 3,
+    "song": {
+      "songName": "BEST INTEREST",
+      "artist": "Tyler, the Creator"
+    },
+    "comment": "No way! this song is amazing",
+    "rating": 3
+  },
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Sympathy is a knife",
+      "artist": "Charli XCX"
+    },
+    "comment": "I can't stop listening to this song",
+    "rating": 4
+  },
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Please Please Please",
+      "artist": "Sabrina Carpenter"
+    },
+    "comment": "Me cae gorda esta rubia",
+    "rating": "3"
+  },
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Good Luck, Babe!",
+      "artist": "Chappell Roan"
+    },
+    "comment": "Mi lesbiana favorita",
+    "rating": "4"
+  },
+  {
+    "userId": 3,
+    "song": {
+      "songName": "My Love Mine All Mine",
+      "artist": "Mitski"
+    },
+    "comment": "Esta vieja me pone a llorar",
+    "rating": "5"
+  }
+]

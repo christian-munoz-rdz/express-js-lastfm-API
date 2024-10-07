@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "email": "chgeovany.15@gmail.com",
+    "password": "chr1234",
+    "desription": "Hola a todos, soy Geovany y me encanta la música",
+    "favSongs": [
+      {
+        "songName": "Feather",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "songName": "Father Stretch My Hands Pt. 1",
+        "artist": "Kanye West"
+      },
+      {
+        "songName": "Why'd You Only Call Me When You're High?",
+        "artist": "Arctic Monkeys"
+      },
+      {
+        "songName": "End of Beginning",
+        "artist": "Djo"
+      },
+      {
+        "songName": "Diet Pepsi",
+        "artist": "Addison Rae"
+      },
+      {
+        "songName": "No Surprises",
+        "artist": "Radiohead"
+      },
+      {
+        "songName": "Not Allowed",
+        "artist": "TV Girl"
+      },
+      {
+        "songName": "Apocalypse",
+        "artist": "Cigarettes After Sex"
+      },
+      {
+        "songName": "Thinkin Bout You",
+        "artist": "Frank Ocean"
+      },
+      {
+        "songName": "Ivy",
+        "artist": "Frank Ocean"
+      },
+      {
+        "songName": "BEST INTEREST",
+        "artist": "Tyler, the Creator"
+      },
+      {
+        "songName": "Creep",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "christian.munoz5060@alumnos.udg.mx",
+    "password": "chr321",
+    "desription": "QUe padre ya puedo guardar mi descripcion",
+    "favSongs": [
+      {
+        "songName": "Sympathy is a knife",
+        "artist": "Charli XCX"
+      },
+      {
+        "songName": "Flashing Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "songName": "Disco",
+        "artist": "Surf Curse"
+      },
+      {
+        "songName": "Faint",
+        "artist": "Linkin Park"
+      },
+      {
+        "songName": "Fade Into You",
+        "artist": "Mazzy Star"
+      },
+      {
+        "songName": "In the End",
+        "artist": "Linkin Park"
+      },
+      {
+        "songName": "Girl, so confusing",
+        "artist": "Charli XCX"
+      },
+      {
+        "songName": "Money Trees",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "songName": "Dancing in the Flames",
+        "artist": "The Weeknd"
+      },
+      {
+        "songName": "There Is a Light That Never Goes Out - 2011 Remaster",
+        "artist": "The Smiths"
+      },
+      {
+        "songName": "PRIDE.",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "songName": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "email": "nis@gmail.com",
+    "password": "jajajajajaj",
+    "desription": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "favSongs": [
+      {
+        "songName": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish"
+      },
+      {
+        "songName": "Good Luck, Babe!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "505",
+        "artist": "Arctic Monkeys"
+      },
+      {
+        "songName": "we can't be friends (wait for your love)",
+        "artist": "Ariana Grande"
+      },
+      {
+        "songName": "Juna",
+        "artist": "Clairo"
+      },
+      {
+        "songName": "Sweater Weather",
+        "artist": "The Neighbourhood"
+      }
+    ]
+  }
+]
