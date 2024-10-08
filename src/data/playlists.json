@@ -1,78 +1,158 @@
 [
-    {
-        "userId": 1,
-        "playlistName": "Chill",
-        "playlistDescription": "Canciones para relajarse",
-        "songs": [
-            {
-                "songName": "Feather",
-                "artist": "Sabrina Carpenter"
-            },
-            {
-                "songName": "End of Beginning",
-                "artist": "Djo"
-            },
-            {
-                "songName": "Diet Pepsi",
-                "artist": "Addison Rae"
-            }
-        ]
-    },
-    {
-        "userId": 2,
-        "playlistName": "Playlist 2",
-        "playlistDescription": "Canciones para relajarse",
-        "songs": [
-            {
-                "songName": "Feather",
-                "artist": "Sabrina Carpenter"
-            },
-            {
-                "songName": "End of Beginning",
-                "artist": "Djo"
-            },
-            {
-                "songName": "Diet Pepsi",
-                "artist": "Addison Rae"
-            }
-        ]
-    },
-    {
-        "userId": 1,
-        "playlistName": "Playlist 3",
-        "playlistDescription": "Canciones para relajarse",
-        "songs": [
-            {
-                "songName": "Feather",
-                "artist": "Sabrina Carpenter"
-            },
-            {
-                "songName": "End of Beginning",
-                "artist": "Djo"
-            },
-            {
-                "songName": "Diet Pepsi",
-                "artist": "Addison Rae"
-            }
-        ]
-    },
-    {
-        "userId": 3,
-        "playlistName": "Playlist 4",
-        "playlistDescription": "Canciones para relajarse",
-        "songs": [
-            {
-                "songName": "Feather",
-                "artist": "Sabrina Carpenter"
-            },
-            {
-                "songName": "End of Beginning",
-                "artist": "Djo"
-            },
-            {
-                "songName": "Diet Pepsi",
-                "artist": "Addison Rae"
-            }
-        ]
-    }
+  {
+    "userId": 1,
+    "playlistName": "Chill",
+    "playlistDescription": "Canciones para relajarse",
+    "songs": [
+      {
+        "songName": "End of Beginning",
+        "artist": "Djo"
+      },
+      {
+        "songName": "Diet Pepsi",
+        "artist": "Addison Rae"
+      },
+      {
+        "songName": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Please Please Please",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Creep",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "playlistName": "Playlist 2",
+    "playlistDescription": "Canciones para relajarse",
+    "songs": [
+      {
+        "songName": "End of Beginning",
+        "artist": "Djo"
+      },
+      {
+        "songName": "Sexy To Someone",
+        "artist": "Clairo"
+      },
+      {
+        "songName": "Blinding Lights",
+        "artist": "The Weeknd"
+      },
+      {
+        "songName": "Cinnamon Girl",
+        "artist": "Lana Del Rey"
+      },
+      {
+        "songName": "American Teenager",
+        "artist": "Ethel Cain"
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "playlistName": "Playlist 4",
+    "playlistDescription": "Canciones para relajarse",
+    "songs": [
+      {
+        "songName": "Feather",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "songName": "End of Beginning",
+        "artist": "Djo"
+      },
+      {
+        "songName": "Diet Pepsi",
+        "artist": "Addison Rae"
+      }
+    ]
+  },
+  {
+    "userId": 1,
+    "playlistName": "Nueva Musica",
+    "playlistDescription": "Canciones nuevas ",
+    "songs": [
+      {
+        "songName": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish"
+      },
+      {
+        "songName": "Please Please Please",
+        "artist": "Sabrina Carpenter"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      }
+    ]
+  },
+  {
+    "userId": 1,
+    "playlistName": "Canciones de chicos sad",
+    "playlistDescription": "Canciones para llorar agusto",
+    "songs": [
+      {
+        "songName": "Good Luck, Babe!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "My Love Mine All Mine",
+        "artist": "Mitski"
+      },
+      {
+        "songName": "No Surprises",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  {
+    "userId": 1,
+    "playlistName": "WTFFF",
+    "playlistDescription": ":(",
+    "songs": [
+      {
+        "songName": "Creep",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  {
+    "userId": 1,
+    "playlistName": "Holaaaaa",
+    "playlistDescription": ":D",
+    "songs": [
+      {
+        "songName": "Creep",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  {
+    "userId": 2,
+    "playlistName": "wiuwiuwiuwiu",
+    "playlistDescription": ":D",
+    "songs": [
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Please Please Please",
+        "artist": "Sabrina Carpenter"
+      }
+    ]
+  }
 ]

@@ -56,6 +56,10 @@
       {
         "songName": "From the Subway Train",
         "artist": "Vansire"
+      },
+      {
+        "songName": "Red Wine Supernova",
+        "artist": "Chappell Roan"
       }
     ]
   },
@@ -63,7 +67,7 @@
     "id": 2,
     "email": "christian.munoz5060@alumnos.udg.mx",
     "password": "chr321",
-    "desription": "QUe padre ya puedo guardar mi descripcion",
+    "desription": "Descripcion nueva",
     "favSongs": [
       {
         "songName": "Sympathy is a knife",

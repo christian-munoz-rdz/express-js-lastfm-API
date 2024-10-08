@@ -61,5 +61,14 @@
     },
     "comment": "Esta vieja me pone a llorar",
     "rating": "5"
+  },
+  {
+    "userId": 2,
+    "song": {
+      "songName": "HOT TO GO!",
+      "artist": "Chappell Roan"
+    },
+    "comment": "Vivan las lesbianas",
+    "rating": "4"
   }
 ]
