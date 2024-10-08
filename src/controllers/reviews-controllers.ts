@@ -19,45 +19,6 @@ const writeReviewsToFile = (reviews: Review[]) => {
   fs.writeFileSync(reviewsFilePath, JSON.stringify(reviews, null, 2), 'utf-8');
 };
 
-const DUMMY_REVIEWS: Review[] = [
-  {
-    userId: 1,
-    song: {
-      songName: "Father Stretch My Hands Pt. 1",
-      artist: "Kanye West",
-    },
-    comment: " What a great song!",
-    rating: 1,
-  },
-  {
-    userId: 2,
-    song: {
-      songName: "Not Allowed",
-      artist: "TV Girl",
-    },
-    comment: "I love this song! since I was a child",
-    rating: 2,
-  },
-  {
-    userId: 3,
-    song: {
-      songName: "BEST INTEREST",
-      artist: "Tyler, the Creator",
-    },
-    comment: "No way! this song is amazing",
-    rating: 3,
-  },
-  {
-    userId: 1,
-    song: {
-      songName: "Sympathy is a knife",
-      artist: "Charli XCX",
-    },
-    comment: "I can't stop listening to this song",
-    rating: 4,
-  },
-];
-
 // Obtener reviews de usuario
 export const getReviews = (req: Request, res: Response, next: () => void) => {
   
