@@ -13,14 +13,6 @@
         "artist": "Addison Rae"
       },
       {
-        "songName": "BIRDS OF A FEATHER",
-        "artist": "Billie Eilish"
-      },
-      {
-        "songName": "HOT TO GO!",
-        "artist": "Chappell Roan"
-      },
-      {
         "songName": "Please Please Please",
         "artist": "Sabrina Carpenter"
       },
@@ -29,8 +21,12 @@
         "artist": "Chappell Roan"
       },
       {
-        "songName": "Creep",
+        "songName": "No Surprises",
         "artist": "Radiohead"
+      },
+      {
+        "songName": "espresso",
+        "artist": "Sabrina Carpenter"
       }
     ]
   },
@@ -105,16 +101,16 @@
     "playlistDescription": "Canciones para llorar agusto",
     "songs": [
       {
-        "songName": "Good Luck, Babe!",
-        "artist": "Chappell Roan"
-      },
-      {
-        "songName": "My Love Mine All Mine",
-        "artist": "Mitski"
+        "songName": "No Surprises",
+        "artist": "Radiohead"
       },
       {
         "songName": "No Surprises",
         "artist": "Radiohead"
+      },
+      {
+        "songName": "espresso",
+        "artist": "Sabrina Carpenter"
       }
     ]
   },
@@ -126,6 +122,10 @@
       {
         "songName": "Creep",
         "artist": "Radiohead"
+      },
+      {
+        "songName": "espresso",
+        "artist": "Sabrina Carpenter"
       }
     ]
   },
@@ -136,6 +136,10 @@
     "songs": [
       {
         "songName": "Creep",
+        "artist": "Radiohead"
+      },
+      {
+        "songName": "No Surprises",
         "artist": "Radiohead"
       }
     ]
@@ -151,6 +155,119 @@
       },
       {
         "songName": "Please Please Please",
+        "artist": "Sabrina Carpenter"
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "playlistName": "Playlist 1",
+    "playlistDescription": "Playlist del GYM",
+    "songs": [
+      {
+        "songName": "Good Luck, Babe!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Apple",
+        "artist": "Charli XCX"
+      },
+      {
+        "songName": "My Love Mine All Mine",
+        "artist": "Mitski"
+      },
+      {
+        "songName": "Casual",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Ribs",
+        "artist": "Lorde"
+      },
+      {
+        "songName": "I like the way you kiss me",
+        "artist": "Artemas"
+      },
+      {
+        "songName": "Jigsaw Falling Into Place",
+        "artist": "Radiohead"
+      },
+      {
+        "songName": "tAsTe",
+        "artist": "Sabrina Carpenter"
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "playlistName": "Playlist 2",
+    "playlistDescription": "Playlist del trabajo",
+    "songs": [
+      {
+        "songName": "My Kind of Woman",
+        "artist": "Mac DeMarco"
+      },
+      {
+        "songName": "Come as You Are",
+        "artist": "Nirvana"
+      },
+      {
+        "songName": "Alright",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "songName": "Sexy To Someone",
+        "artist": "Clairo"
+      },
+      {
+        "songName": "Kiss Me",
+        "artist": "Sixpence None the Richer"
+      },
+      {
+        "songName": "Smells Like Teen Spirit",
+        "artist": "Nirvana"
+      },
+      {
+        "songName": "There Is a Light That Never Goes Out - 2011 Remaster",
+        "artist": "The Smiths"
+      }
+    ]
+  },
+  {
+    "userId": 4,
+    "playlistName": "Playlist 3",
+    "playlistDescription": "Playlist de la casa",
+    "songs": [
+      {
+        "songName": "Softcore",
+        "artist": "The Neighbourhood"
+      },
+      {
+        "songName": "TiK ToK",
+        "artist": "Kesha"
+      },
+      {
+        "songName": "Chop Suey!",
+        "artist": "System of a Down"
+      },
+      {
+        "songName": "You Get Me So High",
+        "artist": "The Neighbourhood"
+      },
+      {
+        "songName": "The Hills",
+        "artist": "The Weeknd"
+      },
+      {
+        "songName": "Casual",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "The Emptiness Machine",
+        "artist": "Linkin Park"
+      },
+      {
+        "songName": "tAsTe",
         "artist": "Sabrina Carpenter"
       }
     ]

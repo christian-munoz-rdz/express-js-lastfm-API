@@ -26,7 +26,6 @@ export const getReviews = (req: Request, res: Response, next: () => void) => {
 
   const reviews = readReviewsFromFile();
   const userReviews = reviews.filter((r) => r.userId === parseInt(userId));
-  console.log(userReviews)
 
   res.json({ reviews: userReviews });
 };

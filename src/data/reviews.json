@@ -1,14 +1,5 @@
 [
   {
-    "userId": 1,
-    "song": {
-      "songName": "Father Stretch My Hands Pt. 1",
-      "artist": "Kanye West"
-    },
-    "comment": " What a great song!",
-    "rating": 1
-  },
-  {
     "userId": 2,
     "song": {
       "songName": "Not Allowed",
@@ -27,33 +18,6 @@
     "rating": 3
   },
   {
-    "userId": 1,
-    "song": {
-      "songName": "Sympathy is a knife",
-      "artist": "Charli XCX"
-    },
-    "comment": "I can't stop listening to this song",
-    "rating": 4
-  },
-  {
-    "userId": 1,
-    "song": {
-      "songName": "Please Please Please",
-      "artist": "Sabrina Carpenter"
-    },
-    "comment": "Me cae gorda esta rubia",
-    "rating": "3"
-  },
-  {
-    "userId": 1,
-    "song": {
-      "songName": "Good Luck, Babe!",
-      "artist": "Chappell Roan"
-    },
-    "comment": "Mi lesbiana favorita",
-    "rating": "4"
-  },
-  {
     "userId": 3,
     "song": {
       "songName": "My Love Mine All Mine",
@@ -69,6 +33,78 @@
       "artist": "Chappell Roan"
     },
     "comment": "Vivan las lesbianas",
+    "rating": "4"
+  },
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Femininomenon",
+      "artist": "Chappell Roan"
+    },
+    "comment": "Muy buena canción",
+    "rating": "4"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "My Love Mine All Mine",
+      "artist": "Mitski"
+    },
+    "comment": "Muy buena canción",
+    "rating": "4"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "Apple",
+      "artist": "Charli XCX"
+    },
+    "comment": "Excelente canción",
+    "rating": "5"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "No Surprises",
+      "artist": "Radiohead"
+    },
+    "comment": "Canción regular ",
+    "rating": "3"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "Creep",
+      "artist": "Radiohead"
+    },
+    "comment": "Canción malísima",
+    "rating": "1"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "artist": "The Weeknd"
+    },
+    "comment": "No me gusta The Weeknd",
+    "rating": "2"
+  },
+  {
+    "userId": 4,
+    "song": {
+      "songName": "Lovers Rock",
+      "artist": "TV Girl"
+    },
+    "comment": ":((((",
+    "rating": "5"
+  },
+  {
+    "userId": 1,
+    "song": {
+      "songName": "Bad Habit",
+      "artist": "Steve Lacy"
+    },
+    "comment": "dsdfdfsdsfsdf",
     "rating": "4"
   }
 ]

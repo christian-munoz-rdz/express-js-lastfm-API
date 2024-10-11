@@ -3,7 +3,7 @@
     "id": 1,
     "email": "chgeovany.15@gmail.com",
     "password": "chr1234",
-    "desription": "Mi descripción",
+    "desription": "Mi ahora nueva y flamante descripcion ahora sí",
     "favSongs": [
       {
         "songName": "Feather",
@@ -60,6 +60,30 @@
       {
         "songName": "Red Wine Supernova",
         "artist": "Chappell Roan"
+      },
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+        "artist": "The Weeknd"
+      },
+      {
+        "songName": "Red Wine Supernova",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Bad Habit",
+        "artist": "Steve Lacy"
+      },
+      {
+        "songName": "Bad Habit",
+        "artist": "Steve Lacy"
+      },
+      {
+        "songName": "Apple",
+        "artist": "Charli XCX"
       }
     ]
   },
@@ -158,5 +182,67 @@
         "artist": "The Neighbourhood"
       }
     ]
+  },
+  {
+    "id": 4,
+    "email": "nuevo@usuario.com",
+    "password": "nuevousuario",
+    "desription": "Descripción de nuevo usuario",
+    "favSongs": [
+      {
+        "songName": "HOT TO GO!",
+        "artist": "Chappell Roan"
+      },
+      {
+        "songName": "Not Like Us",
+        "artist": "Kendrick Lamar"
+      },
+      {
+        "songName": "Thinkin Bout You",
+        "artist": "Frank Ocean"
+      },
+      {
+        "songName": "guess featuring billie eilish",
+        "artist": "Charli XCX"
+      },
+      {
+        "songName": "FE!N (feat. Playboi Carti)",
+        "artist": "Travis Scott"
+      },
+      {
+        "songName": "Duvet",
+        "artist": "bôa"
+      },
+      {
+        "songName": "Sympathy is a knife",
+        "artist": "Charli XCX"
+      },
+      {
+        "songName": "The Less I Know the Better",
+        "artist": "Tame Impala"
+      },
+      {
+        "songName": "Father Stretch My Hands Pt. 1",
+        "artist": "Kanye West"
+      },
+      {
+        "songName": "Lovers Rock",
+        "artist": "TV Girl"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "chgeovany15@gmail.com",
+    "password": "chr1234",
+    "desription": "",
+    "favSongs": []
+  },
+  {
+    "id": 6,
+    "email": "nuevo@usuario2.com",
+    "password": "nuevousuario2",
+    "desription": "Otra Vez Hola",
+    "favSongs": []
   }
 ]
